@@ -2,7 +2,7 @@
 namespace saeid;
 class Validation
 {
-    public function required(array $data , string $fild)
+    public function valid(array $data , string $fild)
     {
         return isset($data[$fild]);
     }
