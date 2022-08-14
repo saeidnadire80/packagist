@@ -1,0 +1,14 @@
+{
+    "name": "saeid/validation",
+    "autoload": {
+        "psr-4": {
+            "Saeid\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "saeid80"
+        }
+    ],
+    "require": {}
+}
